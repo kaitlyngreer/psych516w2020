@@ -1,11 +1,8 @@
 #!/bin/bash
 
-subject_dir=/Users/kaitlyngreer/Desktop/516/EDSD/dataset
-
-cd $subject_dir
-for s in sub-*;
+for s in $(ls /Users/kaitlyngreer/Desktop/Data/BIDS/EDSD);
 do \
 acpcdetect \
-  -i /Users/kaitlyngreer/Desktop/516/EDSD/dataset/$s/anat/*.nii
+  -i ~/Desktop/Data/BIDS/EDSD/${s}/anat/${s}_T1w.nii
  done
   

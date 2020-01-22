@@ -1,14 +1,11 @@
 #!/bin/bash
 
-dicomdir=/Users/kaitlyngreer/Desktop/516/EDSD
-
-cd $dicomdir 
- for s in sub-*; do
- 	cd $s/DICOM/mprage/
+ for s in $(ls ~/Desktop/Data/raw/EDSD); do
+ 	mkdir -p ~/Desktop/Data/BIDS/EDSD/${s}/anat
  	dcm2niix \
-  -o /Users/kaitlyngreer/Desktop/516/EDSD/dataset/$s/anat/ \
+  -o ~/Desktop/Data/BIDS/EDSD/$s/anat/ \
   -x n \
   -z n \
-  -f $s \
-  *.dcm
+  -f ${s}_T1w \
+  ~/Desktop/Data/raw/EDSD/${s}/DICOM/mprage
  done
