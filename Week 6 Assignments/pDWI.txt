@@ -1,0 +1,159 @@
+/fslhome/kgreer3/compute/psych516/Data/derivative/EDSD/pDWI/
+├── sub-FREAD001
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD001/dwi/sub-FREAD001_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD001/dwi/sub-FREAD001_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD001/dwi/sub-FREAD001_dwi.nii
+├── sub-FREAD002
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD002/dwi/sub-FREAD002_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD002/dwi/sub-FREAD002_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD002/dwi/sub-FREAD002_dwi.nii
+├── sub-FREAD003
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD003/dwi/sub-FREAD003_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD003/dwi/sub-FREAD003_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD003/dwi/sub-FREAD003_dwi.nii
+├── sub-FREAD004
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD004/dwi/sub-FREAD004_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD004/dwi/sub-FREAD004_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD004/dwi/sub-FREAD004_dwi.nii
+├── sub-FREAD005
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD005/dwi/sub-FREAD005_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD005/dwi/sub-FREAD005_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD005/dwi/sub-FREAD005_dwi.nii
+├── sub-FREAD006
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD006/dwi/sub-FREAD006_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD006/dwi/sub-FREAD006_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD006/dwi/sub-FREAD006_dwi.nii
+├── sub-FREAD007
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD007/dwi/sub-FREAD007_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD007/dwi/sub-FREAD007_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD007/dwi/sub-FREAD007_dwi.nii
+├── sub-FREAD008
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD008/dwi/sub-FREAD008_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD008/dwi/sub-FREAD008_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD008/dwi/sub-FREAD008_dwi.nii
+├── sub-FREAD009
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD009/dwi/sub-FREAD009_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD009/dwi/sub-FREAD009_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD009/dwi/sub-FREAD009_dwi.nii
+├── sub-FREAD010
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD010/dwi/sub-FREAD010_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD010/dwi/sub-FREAD010_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREAD010/dwi/sub-FREAD010_dwi.nii
+├── sub-FREHC001
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC001/dwi/sub-FREHC001_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC001/dwi/sub-FREHC001_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC001/dwi/sub-FREHC001_dwi.nii
+├── sub-FREHC002
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC002/dwi/sub-FREHC002_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC002/dwi/sub-FREHC002_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC002/dwi/sub-FREHC002_dwi.nii
+├── sub-FREHC003
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC003/dwi/sub-FREHC003_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC003/dwi/sub-FREHC003_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC003/dwi/sub-FREHC003_dwi.nii
+├── sub-FREHC004
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC004/dwi/sub-FREHC004_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC004/dwi/sub-FREHC004_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC004/dwi/sub-FREHC004_dwi.nii
+├── sub-FREHC005
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC005/dwi/sub-FREHC005_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC005/dwi/sub-FREHC005_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC005/dwi/sub-FREHC005_dwi.nii
+├── sub-FREHC006
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC006/dwi/sub-FREHC006_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC006/dwi/sub-FREHC006_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC006/dwi/sub-FREHC006_dwi.nii
+├── sub-FREHC007
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC007/dwi/sub-FREHC007_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC007/dwi/sub-FREHC007_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC007/dwi/sub-FREHC007_dwi.nii
+├── sub-FREHC008
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC008/dwi/sub-FREHC008_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC008/dwi/sub-FREHC008_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC008/dwi/sub-FREHC008_dwi.nii
+├── sub-FREHC009
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC009/dwi/sub-FREHC009_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC009/dwi/sub-FREHC009_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC009/dwi/sub-FREHC009_dwi.nii
+├── sub-FREHC010
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC010/dwi/sub-FREHC010_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC010/dwi/sub-FREHC010_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC010/dwi/sub-FREHC010_dwi.nii
+├── sub-FREHC011
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC011/dwi/sub-FREHC011_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC011/dwi/sub-FREHC011_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC011/dwi/sub-FREHC011_dwi.nii
+├── sub-FREHC012
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC012/dwi/sub-FREHC012_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC012/dwi/sub-FREHC012_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC012/dwi/sub-FREHC012_dwi.nii
+├── sub-FREHC013
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC013/dwi/sub-FREHC013_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC013/dwi/sub-FREHC013_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC013/dwi/sub-FREHC013_dwi.nii
+├── sub-FREHC014
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC014/dwi/sub-FREHC014_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC014/dwi/sub-FREHC014_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC014/dwi/sub-FREHC014_dwi.nii
+├── sub-FREHC015
+│   ├── dwi_b0_mask.nii.gz
+│   ├── dwi_b0.nii.gz
+│   ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC015/dwi/sub-FREHC015_dwi.bval
+│   ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC015/dwi/sub-FREHC015_dwi.bvec
+│   └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC015/dwi/sub-FREHC015_dwi.nii
+└── sub-FREHC016
+    ├── dwi_b0_mask.nii.gz
+    ├── dwi_b0.nii.gz
+    ├── dwi.bval -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC016/dwi/sub-FREHC016_dwi.bval
+    ├── dwi.bvec -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC016/dwi/sub-FREHC016_dwi.bvec
+    └── dwi.nii.gz -> /fslhome/kgreer3/compute/psych516/Data/BIDS/EDSD/sub-FREHC016/dwi/sub-FREHC016_dwi.nii
+
+26 directories, 130 files
