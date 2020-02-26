@@ -6,7 +6,10 @@
 #SBATCH --mem-per-cpu=16G  # memory per CPU core
 
 #LOAD ENVIRONMENTAL VARIABLES
-~/research_bin/FSL/bin/
+FSLDIR=/fslhome/kgreer3/research_bin/FSL
+PATH=${FSLDIR}/bin:${PATH}
+export FSLDIR PATH
+. ${FSLDIR}/etc/fslconf/fsl.sh
 
 #CREATE DERIVATIVE DIRECTORY
 mkdir -p ~/compute/psych516/Data/derivative/EDSD/pDWI/${1}/
@@ -23,4 +26,4 @@ workdir=~/compute/psych516/Data/derivative/EDSD/pDWI/${1}/
 
 fslroi ${workdir}/dwi.nii.gz ${workdir}/dwi_b0.nii.gz 0 1
 
-bet ${workdir}/dwi_b0.nii.gz ${workdir}/dwi_b0 -f 0.1 -g 0 -m -n
+bet ${workdir}/dwi_b0.nii.gz ${workdir}/dwi_b0 -f 0.5 -g 0 -m -n
