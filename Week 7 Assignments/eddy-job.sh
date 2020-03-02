@@ -16,7 +16,7 @@ workdir=~/compute/psych516/Data/derivative/EDSD/pDWI/${1}/
 
 cd ${workdir}
 
-printf "0 1 0 0.095" > acqparams.txt
+printf "0 -1 0 0.072" > acqparams.txt
 
 #CREATE index.txt
 myVar=($(wc -w dwi.bval))
