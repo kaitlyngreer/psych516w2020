@@ -1,0 +1,1182 @@
+/fslhome/kgreer3/compute/psych516/Data/derivative/EDSD/tbss/
+├── AD
+│   └── origdata
+│       ├── sub-FREAD001_AD.nii.gz
+│       ├── sub-FREAD002_AD.nii.gz
+│       ├── sub-FREAD003_AD.nii.gz
+│       ├── sub-FREAD004_AD.nii.gz
+│       ├── sub-FREAD005_AD.nii.gz
+│       ├── sub-FREAD006_AD.nii.gz
+│       ├── sub-FREAD007_AD.nii.gz
+│       ├── sub-FREAD008_AD.nii.gz
+│       ├── sub-FREAD009_AD.nii.gz
+│       ├── sub-FREAD010_AD.nii.gz
+│       ├── sub-FREHC001_AD.nii.gz
+│       ├── sub-FREHC002_AD.nii.gz
+│       ├── sub-FREHC003_AD.nii.gz
+│       ├── sub-FREHC004_AD.nii.gz
+│       ├── sub-FREHC005_AD.nii.gz
+│       ├── sub-FREHC006_AD.nii.gz
+│       ├── sub-FREHC007_AD.nii.gz
+│       ├── sub-FREHC008_AD.nii.gz
+│       ├── sub-FREHC009_AD.nii.gz
+│       ├── sub-FREHC010_AD.nii.gz
+│       ├── sub-FREHC011_AD.nii.gz
+│       ├── sub-FREHC012_AD.nii.gz
+│       ├── sub-FREHC013_AD.nii.gz
+│       ├── sub-FREHC014_AD.nii.gz
+│       ├── sub-FREHC015_AD.nii.gz
+│       └── sub-FREHC016_AD.nii.gz
+├── AD-individ
+│   ├── sub-FREAD001
+│   │   ├── AD
+│   │   │   ├── sub-FREAD001_AD.nii.gz
+│   │   │   ├── sub-FREAD001_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD001_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD001_mask_ADskel.nii.gz
+│   ├── sub-FREAD002
+│   │   ├── AD
+│   │   │   ├── sub-FREAD002_AD.nii.gz
+│   │   │   ├── sub-FREAD002_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD002_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD002_mask_ADskel.nii.gz
+│   ├── sub-FREAD003
+│   │   ├── AD
+│   │   │   ├── sub-FREAD003_AD.nii.gz
+│   │   │   ├── sub-FREAD003_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD003_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD003_mask_ADskel.nii.gz
+│   ├── sub-FREAD004
+│   │   ├── AD
+│   │   │   ├── sub-FREAD004_AD.nii.gz
+│   │   │   ├── sub-FREAD004_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD004_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD004_mask_ADskel.nii.gz
+│   ├── sub-FREAD005
+│   │   ├── AD
+│   │   │   ├── sub-FREAD005_AD.nii.gz
+│   │   │   ├── sub-FREAD005_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD005_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD005_mask_ADskel.nii.gz
+│   ├── sub-FREAD006
+│   │   ├── AD
+│   │   │   ├── sub-FREAD006_AD.nii.gz
+│   │   │   ├── sub-FREAD006_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD006_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD006_mask_ADskel.nii.gz
+│   ├── sub-FREAD007
+│   │   ├── AD
+│   │   │   ├── sub-FREAD007_AD.nii.gz
+│   │   │   ├── sub-FREAD007_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD007_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD007_mask_ADskel.nii.gz
+│   ├── sub-FREAD008
+│   │   ├── AD
+│   │   │   ├── sub-FREAD008_AD.nii.gz
+│   │   │   ├── sub-FREAD008_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD008_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD008_mask_ADskel.nii.gz
+│   ├── sub-FREAD009
+│   │   ├── AD
+│   │   │   ├── sub-FREAD009_AD.nii.gz
+│   │   │   ├── sub-FREAD009_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD009_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD009_mask_ADskel.nii.gz
+│   ├── sub-FREAD010
+│   │   ├── AD
+│   │   │   ├── sub-FREAD010_AD.nii.gz
+│   │   │   ├── sub-FREAD010_AD_to_target.nii.gz
+│   │   │   └── sub-FREAD010_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD010_mask_ADskel.nii.gz
+│   ├── sub-FREHC001
+│   │   ├── AD
+│   │   │   ├── sub-FREHC001_AD.nii.gz
+│   │   │   ├── sub-FREHC001_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC001_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC001_mask_ADskel.nii.gz
+│   ├── sub-FREHC002
+│   │   ├── AD
+│   │   │   ├── sub-FREHC002_AD.nii.gz
+│   │   │   ├── sub-FREHC002_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC002_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC002_mask_ADskel.nii.gz
+│   ├── sub-FREHC003
+│   │   ├── AD
+│   │   │   ├── sub-FREHC003_AD.nii.gz
+│   │   │   ├── sub-FREHC003_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC003_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC003_mask_ADskel.nii.gz
+│   ├── sub-FREHC004
+│   │   ├── AD
+│   │   │   ├── sub-FREHC004_AD.nii.gz
+│   │   │   ├── sub-FREHC004_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC004_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC004_mask_ADskel.nii.gz
+│   ├── sub-FREHC005
+│   │   ├── AD
+│   │   │   ├── sub-FREHC005_AD.nii.gz
+│   │   │   ├── sub-FREHC005_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC005_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC005_mask_ADskel.nii.gz
+│   ├── sub-FREHC006
+│   │   ├── AD
+│   │   │   ├── sub-FREHC006_AD.nii.gz
+│   │   │   ├── sub-FREHC006_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC006_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC006_mask_ADskel.nii.gz
+│   ├── sub-FREHC007
+│   │   ├── AD
+│   │   │   ├── sub-FREHC007_AD.nii.gz
+│   │   │   ├── sub-FREHC007_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC007_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC007_mask_ADskel.nii.gz
+│   ├── sub-FREHC008
+│   │   ├── AD
+│   │   │   ├── sub-FREHC008_AD.nii.gz
+│   │   │   ├── sub-FREHC008_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC008_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC008_mask_ADskel.nii.gz
+│   ├── sub-FREHC009
+│   │   ├── AD
+│   │   │   ├── sub-FREHC009_AD.nii.gz
+│   │   │   ├── sub-FREHC009_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC009_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC009_mask_ADskel.nii.gz
+│   ├── sub-FREHC010
+│   │   ├── AD
+│   │   │   ├── sub-FREHC010_AD.nii.gz
+│   │   │   ├── sub-FREHC010_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC010_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC010_mask_ADskel.nii.gz
+│   ├── sub-FREHC011
+│   │   ├── AD
+│   │   │   ├── sub-FREHC011_AD.nii.gz
+│   │   │   ├── sub-FREHC011_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC011_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC011_mask_ADskel.nii.gz
+│   ├── sub-FREHC012
+│   │   ├── AD
+│   │   │   ├── sub-FREHC012_AD.nii.gz
+│   │   │   ├── sub-FREHC012_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC012_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC012_mask_ADskel.nii.gz
+│   ├── sub-FREHC013
+│   │   ├── AD
+│   │   │   ├── sub-FREHC013_AD.nii.gz
+│   │   │   ├── sub-FREHC013_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC013_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC013_mask_ADskel.nii.gz
+│   ├── sub-FREHC014
+│   │   ├── AD
+│   │   │   ├── sub-FREHC014_AD.nii.gz
+│   │   │   ├── sub-FREHC014_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC014_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC014_mask_ADskel.nii.gz
+│   ├── sub-FREHC015
+│   │   ├── AD
+│   │   │   ├── sub-FREHC015_AD.nii.gz
+│   │   │   ├── sub-FREHC015_AD_to_target.nii.gz
+│   │   │   └── sub-FREHC015_masked_AD.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC015_mask_ADskel.nii.gz
+│   └── sub-FREHC016
+│       ├── AD
+│       │   ├── sub-FREHC016_AD.nii.gz
+│       │   ├── sub-FREHC016_AD_to_target.nii.gz
+│       │   └── sub-FREHC016_masked_AD.nii.gz
+│       └── stats
+│           └── sub-FREHC016_mask_ADskel.nii.gz
+├── FA
+│   ├── best.msf
+│   ├── slicesdir
+│   │   ├── grota.png
+│   │   ├── grotb.png
+│   │   ├── grotc.png
+│   │   ├── grotd.png
+│   │   ├── grote.png
+│   │   ├── grotf.png
+│   │   ├── grotg.png
+│   │   ├── groth.png
+│   │   ├── groti.png
+│   │   ├── index.html
+│   │   ├── sub-FREAD001_FA_FA.png
+│   │   ├── sub-FREAD002_FA_FA.png
+│   │   ├── sub-FREAD003_FA_FA.png
+│   │   ├── sub-FREAD004_FA_FA.png
+│   │   ├── sub-FREAD005_FA_FA.png
+│   │   ├── sub-FREAD006_FA_FA.png
+│   │   ├── sub-FREAD007_FA_FA.png
+│   │   ├── sub-FREAD008_FA_FA.png
+│   │   ├── sub-FREAD009_FA_FA.png
+│   │   ├── sub-FREAD010_FA_FA.png
+│   │   ├── sub-FREHC001_FA_FA.png
+│   │   ├── sub-FREHC002_FA_FA.png
+│   │   ├── sub-FREHC003_FA_FA.png
+│   │   ├── sub-FREHC004_FA_FA.png
+│   │   ├── sub-FREHC005_FA_FA.png
+│   │   ├── sub-FREHC006_FA_FA.png
+│   │   ├── sub-FREHC007_FA_FA.png
+│   │   ├── sub-FREHC008_FA_FA.png
+│   │   ├── sub-FREHC009_FA_FA.png
+│   │   ├── sub-FREHC010_FA_FA.png
+│   │   ├── sub-FREHC011_FA_FA.png
+│   │   ├── sub-FREHC012_FA_FA.png
+│   │   ├── sub-FREHC013_FA_FA.png
+│   │   ├── sub-FREHC014_FA_FA.png
+│   │   ├── sub-FREHC015_FA_FA.png
+│   │   └── sub-FREHC016_FA_FA.png
+│   ├── sub-FREAD001_FA_FA_mask.nii.gz
+│   ├── sub-FREAD001_FA_FA.nii.gz
+│   ├── sub-FREAD001_FA_FA_to_target.log
+│   ├── sub-FREAD001_FA_FA_to_target.mat
+│   ├── sub-FREAD001_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD001_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD001_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD002_FA_FA_mask.nii.gz
+│   ├── sub-FREAD002_FA_FA.nii.gz
+│   ├── sub-FREAD002_FA_FA_to_target.log
+│   ├── sub-FREAD002_FA_FA_to_target.mat
+│   ├── sub-FREAD002_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD002_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD002_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD003_FA_FA_mask.nii.gz
+│   ├── sub-FREAD003_FA_FA.nii.gz
+│   ├── sub-FREAD003_FA_FA_to_target.log
+│   ├── sub-FREAD003_FA_FA_to_target.mat
+│   ├── sub-FREAD003_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD003_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD003_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD004_FA_FA_mask.nii.gz
+│   ├── sub-FREAD004_FA_FA.nii.gz
+│   ├── sub-FREAD004_FA_FA_to_target.log
+│   ├── sub-FREAD004_FA_FA_to_target.mat
+│   ├── sub-FREAD004_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD004_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD004_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD005_FA_FA_mask.nii.gz
+│   ├── sub-FREAD005_FA_FA.nii.gz
+│   ├── sub-FREAD005_FA_FA_to_target.log
+│   ├── sub-FREAD005_FA_FA_to_target.mat
+│   ├── sub-FREAD005_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD005_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD005_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD006_FA_FA_mask.nii.gz
+│   ├── sub-FREAD006_FA_FA.nii.gz
+│   ├── sub-FREAD006_FA_FA_to_target.log
+│   ├── sub-FREAD006_FA_FA_to_target.mat
+│   ├── sub-FREAD006_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD006_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD006_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD007_FA_FA_mask.nii.gz
+│   ├── sub-FREAD007_FA_FA.nii.gz
+│   ├── sub-FREAD007_FA_FA_to_target.log
+│   ├── sub-FREAD007_FA_FA_to_target.mat
+│   ├── sub-FREAD007_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD007_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD007_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD008_FA_FA_mask.nii.gz
+│   ├── sub-FREAD008_FA_FA.nii.gz
+│   ├── sub-FREAD008_FA_FA_to_target.log
+│   ├── sub-FREAD008_FA_FA_to_target.mat
+│   ├── sub-FREAD008_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD008_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD008_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD009_FA_FA_mask.nii.gz
+│   ├── sub-FREAD009_FA_FA.nii.gz
+│   ├── sub-FREAD009_FA_FA_to_target.log
+│   ├── sub-FREAD009_FA_FA_to_target.mat
+│   ├── sub-FREAD009_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD009_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD009_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREAD010_FA_FA_mask.nii.gz
+│   ├── sub-FREAD010_FA_FA.nii.gz
+│   ├── sub-FREAD010_FA_FA_to_target.log
+│   ├── sub-FREAD010_FA_FA_to_target.mat
+│   ├── sub-FREAD010_FA_FA_to_target.nii.gz
+│   ├── sub-FREAD010_FA_FA_to_target_warp.msf
+│   ├── sub-FREAD010_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC001_FA_FA_mask.nii.gz
+│   ├── sub-FREHC001_FA_FA.nii.gz
+│   ├── sub-FREHC001_FA_FA_to_target.log
+│   ├── sub-FREHC001_FA_FA_to_target.mat
+│   ├── sub-FREHC001_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC001_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC001_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC002_FA_FA_mask.nii.gz
+│   ├── sub-FREHC002_FA_FA.nii.gz
+│   ├── sub-FREHC002_FA_FA_to_target.log
+│   ├── sub-FREHC002_FA_FA_to_target.mat
+│   ├── sub-FREHC002_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC002_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC002_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC003_FA_FA_mask.nii.gz
+│   ├── sub-FREHC003_FA_FA.nii.gz
+│   ├── sub-FREHC003_FA_FA_to_target.log
+│   ├── sub-FREHC003_FA_FA_to_target.mat
+│   ├── sub-FREHC003_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC003_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC003_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC004_FA_FA_mask.nii.gz
+│   ├── sub-FREHC004_FA_FA.nii.gz
+│   ├── sub-FREHC004_FA_FA_to_target.log
+│   ├── sub-FREHC004_FA_FA_to_target.mat
+│   ├── sub-FREHC004_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC004_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC004_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC005_FA_FA_mask.nii.gz
+│   ├── sub-FREHC005_FA_FA.nii.gz
+│   ├── sub-FREHC005_FA_FA_to_target.log
+│   ├── sub-FREHC005_FA_FA_to_target.mat
+│   ├── sub-FREHC005_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC005_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC005_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC006_FA_FA_mask.nii.gz
+│   ├── sub-FREHC006_FA_FA.nii.gz
+│   ├── sub-FREHC006_FA_FA_to_target.log
+│   ├── sub-FREHC006_FA_FA_to_target.mat
+│   ├── sub-FREHC006_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC006_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC006_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC007_FA_FA_mask.nii.gz
+│   ├── sub-FREHC007_FA_FA.nii.gz
+│   ├── sub-FREHC007_FA_FA_to_target.log
+│   ├── sub-FREHC007_FA_FA_to_target.mat
+│   ├── sub-FREHC007_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC007_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC007_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC008_FA_FA_mask.nii.gz
+│   ├── sub-FREHC008_FA_FA.nii.gz
+│   ├── sub-FREHC008_FA_FA_to_target.log
+│   ├── sub-FREHC008_FA_FA_to_target.mat
+│   ├── sub-FREHC008_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC008_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC008_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC009_FA_FA_mask.nii.gz
+│   ├── sub-FREHC009_FA_FA.nii.gz
+│   ├── sub-FREHC009_FA_FA_to_target.log
+│   ├── sub-FREHC009_FA_FA_to_target.mat
+│   ├── sub-FREHC009_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC009_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC009_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC010_FA_FA_mask.nii.gz
+│   ├── sub-FREHC010_FA_FA.nii.gz
+│   ├── sub-FREHC010_FA_FA_to_target.log
+│   ├── sub-FREHC010_FA_FA_to_target.mat
+│   ├── sub-FREHC010_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC010_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC010_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC011_FA_FA_mask.nii.gz
+│   ├── sub-FREHC011_FA_FA.nii.gz
+│   ├── sub-FREHC011_FA_FA_to_target.log
+│   ├── sub-FREHC011_FA_FA_to_target.mat
+│   ├── sub-FREHC011_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC011_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC011_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC012_FA_FA_mask.nii.gz
+│   ├── sub-FREHC012_FA_FA.nii.gz
+│   ├── sub-FREHC012_FA_FA_to_target.log
+│   ├── sub-FREHC012_FA_FA_to_target.mat
+│   ├── sub-FREHC012_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC012_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC012_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC013_FA_FA_mask.nii.gz
+│   ├── sub-FREHC013_FA_FA.nii.gz
+│   ├── sub-FREHC013_FA_FA_to_target.log
+│   ├── sub-FREHC013_FA_FA_to_target.mat
+│   ├── sub-FREHC013_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC013_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC013_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC014_FA_FA_mask.nii.gz
+│   ├── sub-FREHC014_FA_FA.nii.gz
+│   ├── sub-FREHC014_FA_FA_to_target.log
+│   ├── sub-FREHC014_FA_FA_to_target.mat
+│   ├── sub-FREHC014_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC014_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC014_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC015_FA_FA_mask.nii.gz
+│   ├── sub-FREHC015_FA_FA.nii.gz
+│   ├── sub-FREHC015_FA_FA_to_target.log
+│   ├── sub-FREHC015_FA_FA_to_target.mat
+│   ├── sub-FREHC015_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC015_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC015_FA_FA_to_target_warp.nii.gz
+│   ├── sub-FREHC016_FA_FA_mask.nii.gz
+│   ├── sub-FREHC016_FA_FA.nii.gz
+│   ├── sub-FREHC016_FA_FA_to_target.log
+│   ├── sub-FREHC016_FA_FA_to_target.mat
+│   ├── sub-FREHC016_FA_FA_to_target.nii.gz
+│   ├── sub-FREHC016_FA_FA_to_target_warp.msf
+│   ├── sub-FREHC016_FA_FA_to_target_warp.nii.gz
+│   ├── target.nii.gz
+│   └── tbss_logs
+│       ├── tbss_2_reg.e106243.1
+│       ├── tbss_2_reg.e106243.10
+│       ├── tbss_2_reg.e106243.11
+│       ├── tbss_2_reg.e106243.12
+│       ├── tbss_2_reg.e106243.13
+│       ├── tbss_2_reg.e106243.14
+│       ├── tbss_2_reg.e106243.15
+│       ├── tbss_2_reg.e106243.16
+│       ├── tbss_2_reg.e106243.17
+│       ├── tbss_2_reg.e106243.18
+│       ├── tbss_2_reg.e106243.19
+│       ├── tbss_2_reg.e106243.2
+│       ├── tbss_2_reg.e106243.20
+│       ├── tbss_2_reg.e106243.21
+│       ├── tbss_2_reg.e106243.22
+│       ├── tbss_2_reg.e106243.23
+│       ├── tbss_2_reg.e106243.24
+│       ├── tbss_2_reg.e106243.25
+│       ├── tbss_2_reg.e106243.26
+│       ├── tbss_2_reg.e106243.3
+│       ├── tbss_2_reg.e106243.4
+│       ├── tbss_2_reg.e106243.5
+│       ├── tbss_2_reg.e106243.6
+│       ├── tbss_2_reg.e106243.7
+│       ├── tbss_2_reg.e106243.8
+│       ├── tbss_2_reg.e106243.9
+│       ├── tbss_2_reg.o106243.1
+│       ├── tbss_2_reg.o106243.10
+│       ├── tbss_2_reg.o106243.11
+│       ├── tbss_2_reg.o106243.12
+│       ├── tbss_2_reg.o106243.13
+│       ├── tbss_2_reg.o106243.14
+│       ├── tbss_2_reg.o106243.15
+│       ├── tbss_2_reg.o106243.16
+│       ├── tbss_2_reg.o106243.17
+│       ├── tbss_2_reg.o106243.18
+│       ├── tbss_2_reg.o106243.19
+│       ├── tbss_2_reg.o106243.2
+│       ├── tbss_2_reg.o106243.20
+│       ├── tbss_2_reg.o106243.21
+│       ├── tbss_2_reg.o106243.22
+│       ├── tbss_2_reg.o106243.23
+│       ├── tbss_2_reg.o106243.24
+│       ├── tbss_2_reg.o106243.25
+│       ├── tbss_2_reg.o106243.26
+│       ├── tbss_2_reg.o106243.3
+│       ├── tbss_2_reg.o106243.4
+│       ├── tbss_2_reg.o106243.5
+│       ├── tbss_2_reg.o106243.6
+│       ├── tbss_2_reg.o106243.7
+│       ├── tbss_2_reg.o106243.8
+│       └── tbss_2_reg.o106243.9
+├── FA-individ
+│   ├── sub-FREAD001
+│   │   ├── FA
+│   │   │   ├── sub-FREAD001_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD001_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD001_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD001_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD001_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD001_masked_FAskel.nii.gz
+│   ├── sub-FREAD002
+│   │   ├── FA
+│   │   │   ├── sub-FREAD002_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD002_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD002_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD002_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD002_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD002_masked_FAskel.nii.gz
+│   ├── sub-FREAD003
+│   │   ├── FA
+│   │   │   ├── sub-FREAD003_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD003_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD003_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD003_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD003_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD003_masked_FAskel.nii.gz
+│   ├── sub-FREAD004
+│   │   ├── FA
+│   │   │   ├── sub-FREAD004_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD004_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD004_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD004_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD004_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD004_masked_FAskel.nii.gz
+│   ├── sub-FREAD005
+│   │   ├── FA
+│   │   │   ├── sub-FREAD005_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD005_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD005_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD005_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD005_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD005_masked_FAskel.nii.gz
+│   ├── sub-FREAD006
+│   │   ├── FA
+│   │   │   ├── sub-FREAD006_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD006_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD006_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD006_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD006_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD006_masked_FAskel.nii.gz
+│   ├── sub-FREAD007
+│   │   ├── FA
+│   │   │   ├── sub-FREAD007_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD007_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD007_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD007_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD007_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD007_masked_FAskel.nii.gz
+│   ├── sub-FREAD008
+│   │   ├── FA
+│   │   │   ├── sub-FREAD008_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD008_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD008_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD008_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD008_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD008_masked_FAskel.nii.gz
+│   ├── sub-FREAD009
+│   │   ├── FA
+│   │   │   ├── sub-FREAD009_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD009_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD009_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD009_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD009_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD009_masked_FAskel.nii.gz
+│   ├── sub-FREAD010
+│   │   ├── FA
+│   │   │   ├── sub-FREAD010_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREAD010_FA_FA.nii.gz
+│   │   │   ├── sub-FREAD010_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREAD010_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREAD010_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD010_masked_FAskel.nii.gz
+│   ├── sub-FREHC001
+│   │   ├── FA
+│   │   │   ├── sub-FREHC001_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC001_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC001_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC001_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC001_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC001_masked_FAskel.nii.gz
+│   ├── sub-FREHC002
+│   │   ├── FA
+│   │   │   ├── sub-FREHC002_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC002_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC002_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC002_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC002_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC002_masked_FAskel.nii.gz
+│   ├── sub-FREHC003
+│   │   ├── FA
+│   │   │   ├── sub-FREHC003_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC003_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC003_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC003_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC003_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC003_masked_FAskel.nii.gz
+│   ├── sub-FREHC004
+│   │   ├── FA
+│   │   │   ├── sub-FREHC004_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC004_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC004_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC004_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC004_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC004_masked_FAskel.nii.gz
+│   ├── sub-FREHC005
+│   │   ├── FA
+│   │   │   ├── sub-FREHC005_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC005_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC005_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC005_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC005_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC005_masked_FAskel.nii.gz
+│   ├── sub-FREHC006
+│   │   ├── FA
+│   │   │   ├── sub-FREHC006_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC006_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC006_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC006_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC006_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC006_masked_FAskel.nii.gz
+│   ├── sub-FREHC007
+│   │   ├── FA
+│   │   │   ├── sub-FREHC007_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC007_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC007_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC007_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC007_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC007_masked_FAskel.nii.gz
+│   ├── sub-FREHC008
+│   │   ├── FA
+│   │   │   ├── sub-FREHC008_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC008_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC008_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC008_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC008_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC008_masked_FAskel.nii.gz
+│   ├── sub-FREHC009
+│   │   ├── FA
+│   │   │   ├── sub-FREHC009_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC009_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC009_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC009_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC009_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC009_masked_FAskel.nii.gz
+│   ├── sub-FREHC010
+│   │   ├── FA
+│   │   │   ├── sub-FREHC010_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC010_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC010_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC010_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC010_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC010_masked_FAskel.nii.gz
+│   ├── sub-FREHC011
+│   │   ├── FA
+│   │   │   ├── sub-FREHC011_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC011_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC011_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC011_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC011_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC011_masked_FAskel.nii.gz
+│   ├── sub-FREHC012
+│   │   ├── FA
+│   │   │   ├── sub-FREHC012_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC012_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC012_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC012_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC012_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC012_masked_FAskel.nii.gz
+│   ├── sub-FREHC013
+│   │   ├── FA
+│   │   │   ├── sub-FREHC013_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC013_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC013_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC013_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC013_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC013_masked_FAskel.nii.gz
+│   ├── sub-FREHC014
+│   │   ├── FA
+│   │   │   ├── sub-FREHC014_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC014_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC014_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC014_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC014_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC014_masked_FAskel.nii.gz
+│   ├── sub-FREHC015
+│   │   ├── FA
+│   │   │   ├── sub-FREHC015_FA_FA_mask.nii.gz
+│   │   │   ├── sub-FREHC015_FA_FA.nii.gz
+│   │   │   ├── sub-FREHC015_FA_FA_to_target.nii.gz
+│   │   │   ├── sub-FREHC015_FA_FA_to_target_warp.nii.gz
+│   │   │   └── sub-FREHC015_masked_FA.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC015_masked_FAskel.nii.gz
+│   └── sub-FREHC016
+│       ├── FA
+│       │   ├── sub-FREHC016_FA_FA_mask.nii.gz
+│       │   ├── sub-FREHC016_FA_FA.nii.gz
+│       │   ├── sub-FREHC016_FA_FA_to_target.nii.gz
+│       │   ├── sub-FREHC016_FA_FA_to_target_warp.nii.gz
+│       │   └── sub-FREHC016_masked_FA.nii.gz
+│       └── stats
+│           └── sub-FREHC016_masked_FAskel.nii.gz
+├── MD
+│   └── origdata
+│       ├── sub-FREAD001_MD.nii.gz
+│       ├── sub-FREAD002_MD.nii.gz
+│       ├── sub-FREAD003_MD.nii.gz
+│       ├── sub-FREAD004_MD.nii.gz
+│       ├── sub-FREAD005_MD.nii.gz
+│       ├── sub-FREAD006_MD.nii.gz
+│       ├── sub-FREAD007_MD.nii.gz
+│       ├── sub-FREAD008_MD.nii.gz
+│       ├── sub-FREAD009_MD.nii.gz
+│       ├── sub-FREAD010_MD.nii.gz
+│       ├── sub-FREHC001_MD.nii.gz
+│       ├── sub-FREHC002_MD.nii.gz
+│       ├── sub-FREHC003_MD.nii.gz
+│       ├── sub-FREHC004_MD.nii.gz
+│       ├── sub-FREHC005_MD.nii.gz
+│       ├── sub-FREHC006_MD.nii.gz
+│       ├── sub-FREHC007_MD.nii.gz
+│       ├── sub-FREHC008_MD.nii.gz
+│       ├── sub-FREHC009_MD.nii.gz
+│       ├── sub-FREHC010_MD.nii.gz
+│       ├── sub-FREHC011_MD.nii.gz
+│       ├── sub-FREHC012_MD.nii.gz
+│       ├── sub-FREHC013_MD.nii.gz
+│       ├── sub-FREHC014_MD.nii.gz
+│       ├── sub-FREHC015_MD.nii.gz
+│       └── sub-FREHC016_MD.nii.gz
+├── MD-individ
+│   ├── sub-FREAD001
+│   │   ├── MD
+│   │   │   ├── sub-FREAD001_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD001_MD.nii.gz
+│   │   │   └── sub-FREAD001_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD001_mask_MDskel.nii.gz
+│   ├── sub-FREAD002
+│   │   ├── MD
+│   │   │   ├── sub-FREAD002_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD002_MD.nii.gz
+│   │   │   └── sub-FREAD002_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD002_mask_MDskel.nii.gz
+│   ├── sub-FREAD003
+│   │   ├── MD
+│   │   │   ├── sub-FREAD003_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD003_MD.nii.gz
+│   │   │   └── sub-FREAD003_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD003_mask_MDskel.nii.gz
+│   ├── sub-FREAD004
+│   │   ├── MD
+│   │   │   ├── sub-FREAD004_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD004_MD.nii.gz
+│   │   │   └── sub-FREAD004_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD004_mask_MDskel.nii.gz
+│   ├── sub-FREAD005
+│   │   ├── MD
+│   │   │   ├── sub-FREAD005_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD005_MD.nii.gz
+│   │   │   └── sub-FREAD005_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD005_mask_MDskel.nii.gz
+│   ├── sub-FREAD006
+│   │   ├── MD
+│   │   │   ├── sub-FREAD006_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD006_MD.nii.gz
+│   │   │   └── sub-FREAD006_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD006_mask_MDskel.nii.gz
+│   ├── sub-FREAD007
+│   │   ├── MD
+│   │   │   ├── sub-FREAD007_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD007_MD.nii.gz
+│   │   │   └── sub-FREAD007_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD007_mask_MDskel.nii.gz
+│   ├── sub-FREAD008
+│   │   ├── MD
+│   │   │   ├── sub-FREAD008_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD008_MD.nii.gz
+│   │   │   └── sub-FREAD008_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD008_mask_MDskel.nii.gz
+│   ├── sub-FREAD009
+│   │   ├── MD
+│   │   │   ├── sub-FREAD009_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD009_MD.nii.gz
+│   │   │   └── sub-FREAD009_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD009_mask_MDskel.nii.gz
+│   ├── sub-FREAD010
+│   │   ├── MD
+│   │   │   ├── sub-FREAD010_masked_MD.nii.gz
+│   │   │   ├── sub-FREAD010_MD.nii.gz
+│   │   │   └── sub-FREAD010_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD010_mask_MDskel.nii.gz
+│   ├── sub-FREHC001
+│   │   ├── MD
+│   │   │   ├── sub-FREHC001_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC001_MD.nii.gz
+│   │   │   └── sub-FREHC001_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC001_mask_MDskel.nii.gz
+│   ├── sub-FREHC002
+│   │   ├── MD
+│   │   │   ├── sub-FREHC002_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC002_MD.nii.gz
+│   │   │   └── sub-FREHC002_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC002_mask_MDskel.nii.gz
+│   ├── sub-FREHC003
+│   │   ├── MD
+│   │   │   ├── sub-FREHC003_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC003_MD.nii.gz
+│   │   │   └── sub-FREHC003_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC003_mask_MDskel.nii.gz
+│   ├── sub-FREHC004
+│   │   ├── MD
+│   │   │   ├── sub-FREHC004_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC004_MD.nii.gz
+│   │   │   └── sub-FREHC004_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC004_mask_MDskel.nii.gz
+│   ├── sub-FREHC005
+│   │   ├── MD
+│   │   │   ├── sub-FREHC005_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC005_MD.nii.gz
+│   │   │   └── sub-FREHC005_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC005_mask_MDskel.nii.gz
+│   ├── sub-FREHC006
+│   │   ├── MD
+│   │   │   ├── sub-FREHC006_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC006_MD.nii.gz
+│   │   │   └── sub-FREHC006_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC006_mask_MDskel.nii.gz
+│   ├── sub-FREHC007
+│   │   ├── MD
+│   │   │   ├── sub-FREHC007_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC007_MD.nii.gz
+│   │   │   └── sub-FREHC007_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC007_mask_MDskel.nii.gz
+│   ├── sub-FREHC008
+│   │   ├── MD
+│   │   │   ├── sub-FREHC008_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC008_MD.nii.gz
+│   │   │   └── sub-FREHC008_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC008_mask_MDskel.nii.gz
+│   ├── sub-FREHC009
+│   │   ├── MD
+│   │   │   ├── sub-FREHC009_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC009_MD.nii.gz
+│   │   │   └── sub-FREHC009_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC009_mask_MDskel.nii.gz
+│   ├── sub-FREHC010
+│   │   ├── MD
+│   │   │   ├── sub-FREHC010_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC010_MD.nii.gz
+│   │   │   └── sub-FREHC010_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC010_mask_MDskel.nii.gz
+│   ├── sub-FREHC011
+│   │   ├── MD
+│   │   │   ├── sub-FREHC011_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC011_MD.nii.gz
+│   │   │   └── sub-FREHC011_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC011_mask_MDskel.nii.gz
+│   ├── sub-FREHC012
+│   │   ├── MD
+│   │   │   ├── sub-FREHC012_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC012_MD.nii.gz
+│   │   │   └── sub-FREHC012_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC012_mask_MDskel.nii.gz
+│   ├── sub-FREHC013
+│   │   ├── MD
+│   │   │   ├── sub-FREHC013_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC013_MD.nii.gz
+│   │   │   └── sub-FREHC013_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC013_mask_MDskel.nii.gz
+│   ├── sub-FREHC014
+│   │   ├── MD
+│   │   │   ├── sub-FREHC014_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC014_MD.nii.gz
+│   │   │   └── sub-FREHC014_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC014_mask_MDskel.nii.gz
+│   ├── sub-FREHC015
+│   │   ├── MD
+│   │   │   ├── sub-FREHC015_masked_MD.nii.gz
+│   │   │   ├── sub-FREHC015_MD.nii.gz
+│   │   │   └── sub-FREHC015_MD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC015_mask_MDskel.nii.gz
+│   └── sub-FREHC016
+│       ├── MD
+│       │   ├── sub-FREHC016_masked_MD.nii.gz
+│       │   ├── sub-FREHC016_MD.nii.gz
+│       │   └── sub-FREHC016_MD_to_target.nii.gz
+│       └── stats
+│           └── sub-FREHC016_mask_MDskel.nii.gz
+├── origdata
+│   ├── sub-FREAD001_FA.nii.gz
+│   ├── sub-FREAD002_FA.nii.gz
+│   ├── sub-FREAD003_FA.nii.gz
+│   ├── sub-FREAD004_FA.nii.gz
+│   ├── sub-FREAD005_FA.nii.gz
+│   ├── sub-FREAD006_FA.nii.gz
+│   ├── sub-FREAD007_FA.nii.gz
+│   ├── sub-FREAD008_FA.nii.gz
+│   ├── sub-FREAD009_FA.nii.gz
+│   ├── sub-FREAD010_FA.nii.gz
+│   ├── sub-FREHC001_FA.nii.gz
+│   ├── sub-FREHC002_FA.nii.gz
+│   ├── sub-FREHC003_FA.nii.gz
+│   ├── sub-FREHC004_FA.nii.gz
+│   ├── sub-FREHC005_FA.nii.gz
+│   ├── sub-FREHC006_FA.nii.gz
+│   ├── sub-FREHC007_FA.nii.gz
+│   ├── sub-FREHC008_FA.nii.gz
+│   ├── sub-FREHC009_FA.nii.gz
+│   ├── sub-FREHC010_FA.nii.gz
+│   ├── sub-FREHC011_FA.nii.gz
+│   ├── sub-FREHC012_FA.nii.gz
+│   ├── sub-FREHC013_FA.nii.gz
+│   ├── sub-FREHC014_FA.nii.gz
+│   ├── sub-FREHC015_FA.nii.gz
+│   └── sub-FREHC016_FA.nii.gz
+├── RD
+│   └── origdata
+│       ├── sub-FREAD001_RD.nii.gz
+│       ├── sub-FREAD002_RD.nii.gz
+│       ├── sub-FREAD003_RD.nii.gz
+│       ├── sub-FREAD004_RD.nii.gz
+│       ├── sub-FREAD005_RD.nii.gz
+│       ├── sub-FREAD006_RD.nii.gz
+│       ├── sub-FREAD007_RD.nii.gz
+│       ├── sub-FREAD008_RD.nii.gz
+│       ├── sub-FREAD009_RD.nii.gz
+│       ├── sub-FREAD010_RD.nii.gz
+│       ├── sub-FREHC001_RD.nii.gz
+│       ├── sub-FREHC002_RD.nii.gz
+│       ├── sub-FREHC003_RD.nii.gz
+│       ├── sub-FREHC004_RD.nii.gz
+│       ├── sub-FREHC005_RD.nii.gz
+│       ├── sub-FREHC006_RD.nii.gz
+│       ├── sub-FREHC007_RD.nii.gz
+│       ├── sub-FREHC008_RD.nii.gz
+│       ├── sub-FREHC009_RD.nii.gz
+│       ├── sub-FREHC010_RD.nii.gz
+│       ├── sub-FREHC011_RD.nii.gz
+│       ├── sub-FREHC012_RD.nii.gz
+│       ├── sub-FREHC013_RD.nii.gz
+│       ├── sub-FREHC014_RD.nii.gz
+│       ├── sub-FREHC015_RD.nii.gz
+│       └── sub-FREHC016_RD.nii.gz
+├── RD-individ
+│   ├── sub-FREAD001
+│   │   ├── RD
+│   │   │   ├── sub-FREAD001_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD001_RD.nii.gz
+│   │   │   └── sub-FREAD001_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD001_mask_RDskel.nii.gz
+│   ├── sub-FREAD002
+│   │   ├── RD
+│   │   │   ├── sub-FREAD002_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD002_RD.nii.gz
+│   │   │   └── sub-FREAD002_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD002_mask_RDskel.nii.gz
+│   ├── sub-FREAD003
+│   │   ├── RD
+│   │   │   ├── sub-FREAD003_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD003_RD.nii.gz
+│   │   │   └── sub-FREAD003_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD003_mask_RDskel.nii.gz
+│   ├── sub-FREAD004
+│   │   ├── RD
+│   │   │   ├── sub-FREAD004_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD004_RD.nii.gz
+│   │   │   └── sub-FREAD004_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD004_mask_RDskel.nii.gz
+│   ├── sub-FREAD005
+│   │   ├── RD
+│   │   │   ├── sub-FREAD005_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD005_RD.nii.gz
+│   │   │   └── sub-FREAD005_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD005_mask_RDskel.nii.gz
+│   ├── sub-FREAD006
+│   │   ├── RD
+│   │   │   ├── sub-FREAD006_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD006_RD.nii.gz
+│   │   │   └── sub-FREAD006_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD006_mask_RDskel.nii.gz
+│   ├── sub-FREAD007
+│   │   ├── RD
+│   │   │   ├── sub-FREAD007_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD007_RD.nii.gz
+│   │   │   └── sub-FREAD007_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD007_mask_RDskel.nii.gz
+│   ├── sub-FREAD008
+│   │   ├── RD
+│   │   │   ├── sub-FREAD008_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD008_RD.nii.gz
+│   │   │   └── sub-FREAD008_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD008_mask_RDskel.nii.gz
+│   ├── sub-FREAD009
+│   │   ├── RD
+│   │   │   ├── sub-FREAD009_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD009_RD.nii.gz
+│   │   │   └── sub-FREAD009_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD009_mask_RDskel.nii.gz
+│   ├── sub-FREAD010
+│   │   ├── RD
+│   │   │   ├── sub-FREAD010_masked_RD.nii.gz
+│   │   │   ├── sub-FREAD010_RD.nii.gz
+│   │   │   └── sub-FREAD010_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREAD010_mask_RDskel.nii.gz
+│   ├── sub-FREHC001
+│   │   ├── RD
+│   │   │   ├── sub-FREHC001_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC001_RD.nii.gz
+│   │   │   └── sub-FREHC001_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC001_mask_RDskel.nii.gz
+│   ├── sub-FREHC002
+│   │   ├── RD
+│   │   │   ├── sub-FREHC002_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC002_RD.nii.gz
+│   │   │   └── sub-FREHC002_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC002_mask_RDskel.nii.gz
+│   ├── sub-FREHC003
+│   │   ├── RD
+│   │   │   ├── sub-FREHC003_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC003_RD.nii.gz
+│   │   │   └── sub-FREHC003_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC003_mask_RDskel.nii.gz
+│   ├── sub-FREHC004
+│   │   ├── RD
+│   │   │   ├── sub-FREHC004_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC004_RD.nii.gz
+│   │   │   └── sub-FREHC004_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC004_mask_RDskel.nii.gz
+│   ├── sub-FREHC005
+│   │   ├── RD
+│   │   │   ├── sub-FREHC005_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC005_RD.nii.gz
+│   │   │   └── sub-FREHC005_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC005_mask_RDskel.nii.gz
+│   ├── sub-FREHC006
+│   │   ├── RD
+│   │   │   ├── sub-FREHC006_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC006_RD.nii.gz
+│   │   │   └── sub-FREHC006_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC006_mask_RDskel.nii.gz
+│   ├── sub-FREHC007
+│   │   ├── RD
+│   │   │   ├── sub-FREHC007_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC007_RD.nii.gz
+│   │   │   └── sub-FREHC007_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC007_mask_RDskel.nii.gz
+│   ├── sub-FREHC008
+│   │   ├── RD
+│   │   │   ├── sub-FREHC008_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC008_RD.nii.gz
+│   │   │   └── sub-FREHC008_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC008_mask_RDskel.nii.gz
+│   ├── sub-FREHC009
+│   │   ├── RD
+│   │   │   ├── sub-FREHC009_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC009_RD.nii.gz
+│   │   │   └── sub-FREHC009_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC009_mask_RDskel.nii.gz
+│   ├── sub-FREHC010
+│   │   ├── RD
+│   │   │   ├── sub-FREHC010_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC010_RD.nii.gz
+│   │   │   └── sub-FREHC010_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC010_mask_RDskel.nii.gz
+│   ├── sub-FREHC011
+│   │   ├── RD
+│   │   │   ├── sub-FREHC011_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC011_RD.nii.gz
+│   │   │   └── sub-FREHC011_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC011_mask_RDskel.nii.gz
+│   ├── sub-FREHC012
+│   │   ├── RD
+│   │   │   ├── sub-FREHC012_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC012_RD.nii.gz
+│   │   │   └── sub-FREHC012_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC012_mask_RDskel.nii.gz
+│   ├── sub-FREHC013
+│   │   ├── RD
+│   │   │   ├── sub-FREHC013_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC013_RD.nii.gz
+│   │   │   └── sub-FREHC013_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC013_mask_RDskel.nii.gz
+│   ├── sub-FREHC014
+│   │   ├── RD
+│   │   │   ├── sub-FREHC014_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC014_RD.nii.gz
+│   │   │   └── sub-FREHC014_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC014_mask_RDskel.nii.gz
+│   ├── sub-FREHC015
+│   │   ├── RD
+│   │   │   ├── sub-FREHC015_masked_RD.nii.gz
+│   │   │   ├── sub-FREHC015_RD.nii.gz
+│   │   │   └── sub-FREHC015_RD_to_target.nii.gz
+│   │   └── stats
+│   │       └── sub-FREHC015_mask_RDskel.nii.gz
+│   └── sub-FREHC016
+│       ├── RD
+│       │   ├── sub-FREHC016_masked_RD.nii.gz
+│       │   ├── sub-FREHC016_RD.nii.gz
+│       │   └── sub-FREHC016_RD_to_target.nii.gz
+│       └── stats
+│           └── sub-FREHC016_mask_RDskel.nii.gz
+└── stats
+    ├── all_FA.nii.gz
+    ├── all_FA_skeletonised.nii.gz
+    ├── mean_FA_mask.nii.gz
+    ├── mean_FA.nii.gz
+    ├── mean_FA_skeleton_mask_dst.nii.gz
+    ├── mean_FA_skeleton_mask.nii.gz
+    ├── mean_FA_skeleton.nii.gz
+    └── thresh.txt
+
+327 directories, 852 files
